@@ -7,6 +7,7 @@ import (
 	"github.com/IamDushu/Bank_of_Go/api"
 	db "github.com/IamDushu/Bank_of_Go/db/sqlc"
 	"github.com/IamDushu/Bank_of_Go/util"
+	_ "github.com/golang/mock/mockgen/model"
 	_ "github.com/lib/pq"
 )
 
